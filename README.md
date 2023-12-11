@@ -10,3 +10,4 @@ brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg
 srcclr activatemnnm.....
 srcclr scan --url https://github.com/srcclr/example-javascrip.....cccccc,//
 ```.......,,,,,,cccccccccvvvnmn 
+m,m klnk;nnlj

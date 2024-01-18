@@ -5,4 +5,4 @@ An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.dd
 nm
 nmmmn`111
 dddd
-scdw
+scdwaaa

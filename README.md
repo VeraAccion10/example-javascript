@@ -1,6 +1,6 @@
 ssjj [:] Example Node Project
 
-An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
+An example node project to demonstrate [srcclr](https://www.srcclr.com) scans....
 ## Try me!kjjsdsd,,,ssss,kk
 nmmmsdsfzxdssa
 nmmmn`111adad

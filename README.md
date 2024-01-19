@@ -6,7 +6,4 @@ nmmmsdsfzxdssassd
 nmmmn
 ddddfff...
 scdwaaadddddddknm
-xsdxm,.;k
-
-,,,
-lll
+xsdx

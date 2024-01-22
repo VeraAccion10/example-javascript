@@ -2,8 +2,7 @@
 zaz
 An example node project to demonstrate [srcclr](https://www.srcclr.com)
 ## Try me!kjjsdsd,,,ssss,xx
-nmmmsdsfzxdscc
-nmmmn
+nmmmsdsfzxdsc
 ddddfff....;.
 scdwaaadddddddknmvvdd
 xsdx

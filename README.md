@@ -1,7 +1,7 @@
 [:] Example Node Project
 zaz
 An example node project to demonstrate [srcclr](https://www.srcclr.com)lll
-## Try me!kjjsdsd,,,ssss,xx
+## Try me!kjjsdsd
 nmmmsdsfzxdsc
 ddddfff....;.xxx
 s

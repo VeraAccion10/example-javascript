@@ -4,5 +4,4 @@ An example node project to demonstrate [srcclr](https://www.srcclr.com)
 cccccc
 cccccc
 
-cccffffvvvvvvvv
-l;;l
+c

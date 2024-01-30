@@ -1,3 +1,3 @@
-vvvvddddcx[:] Example Node Project
+ccccvvvvddddcx[:] Example Node Project
 An example node project to demonstrate [srcclr](https://www.srcclr.com)
 #

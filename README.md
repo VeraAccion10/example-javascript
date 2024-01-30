@@ -3,5 +3,3 @@ An example node project to demonstrate [srcclr](https://www.srcclr.com)
 ## Try 
 c
 ddddd
-fff
-fffff

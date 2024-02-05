@@ -1,3 +1,2 @@
 ccccExample Node Project
-An example node project to demonstrate [srcclr](https:/w.srcclr.com)
-ccccc
+An example node project to demonstrate [srcclr](https:/w.srcclr.

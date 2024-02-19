@@ -1,3 +1,3 @@
-vvvccccccccccExample Node Project
+cccvvvccccccccccExample Node Project
 An example node project to demonstrate [srcclr](https:/w
 mmnnm

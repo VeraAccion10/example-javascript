@@ -1,3 +1,3 @@
-scczdExample Node Project
+dssscczdExample Node Project
 An example node project to demonstrate [srcclr](https:/w
 
